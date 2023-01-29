@@ -16,7 +16,7 @@
 }
  
 body {
-/*
+
     background-color: linear-gradient(90deg, #8360c3, #2ebf91);
     /*background-color: #ccc;*/ /* Le fond de la page sera noir */
     /*color: white;*/ /* Le texte de la page sera blanc */
@@ -50,7 +50,7 @@ p:hover {
 
 
 p {
-    
+    color: red;
     /* J'en profite pour
     ajouter un commentaire
     sur plusieurs lignes */
